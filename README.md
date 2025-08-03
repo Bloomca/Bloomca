@@ -7,7 +7,7 @@ I am a software developer with about ~12 years of experience, currently focusing
   - [Streakosaur](https://github.com/Bloomca/Streakosaur) -- SwiftUI application to manage streaks
  
  - 🌱 I’m currently learning:
-   - low-level OS concepts (mostly with C, like this [Win32 app](https://github.com/Bloomca/win32-pomodoro-timer))
+   - low-level OS concepts (C, like this [Win32 app](https://github.com/Bloomca/win32-pomodoro-timer), and [TUI editor](https://github.com/Bloomca/love) in Rust)
    - how to parse audio CDs and play audio to build a ripper + player apps
 
 <!--
