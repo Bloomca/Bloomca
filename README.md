@@ -8,7 +8,7 @@ I am a software developer with about ~12 years of experience, currently focusing
  
  - 🌱 I’m currently learning:
    - low-level OS concepts (C, like this [Win32 app](https://github.com/Bloomca/win32-pomodoro-timer), and [TUI editor](https://github.com/Bloomca/love) in Rust)
-   - how to parse audio CDs and play audio to build a ripper + player apps
+   - how to parse audio CDs ([library](https://github.com/Bloomca/rust-cd-da-reader), [blog post](https://blog.bloomca.me/2025/08/31/how-to-read-audio-cd)) and play audio to build a [ripper](https://github.com/Bloomca/audio-cd-ripper) + player apps
 
 <!--
 **Bloomca/Bloomca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
